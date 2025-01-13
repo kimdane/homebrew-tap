@@ -3,7 +3,7 @@ class Autokbisw < Formula
   homepage "https://github.com/kimdane/autokbisw"
   version "2.0.2"
   url "https://github.com/kimdane/autokbisw/archive/refs/tags/2.0.2.tar.gz"
-  sha256 "6ba5a3dfc57bf7046b82b2d6936a71d7e887cfea87ad35bb472149970f2d47bd"
+  sha256 "d60156feab7573185b4c2e71a0d9699d04e3ff4f4d46de8593acb35d7fdf78ac"
   depends_on :xcode
 
   def install
